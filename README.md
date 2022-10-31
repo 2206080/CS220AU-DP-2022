@@ -29,11 +29,13 @@ How to use this GitHub repository as a template for your submission, including h
 - 2022-10-18 introduction to github, creation of two repositries, went to class and gained basic understanding of github
 - 2022-10-11 introduction to digital identities in class, visitors and residents model by David White
 - 2022-10-24 some familiarity with markdown language gained, research question chosen: existential threat, ai, 
+- 2022-10-30 3 V&R maps created for past, present, future
+- 2022-10-30 notes made
+- 2022-10-30 some references and citations made, in pvt. notes
 <br>
 
 ## TODO
 ### in week 3 - 18/30/2022
 - familiarise self with markdown lang.
 - research question, existential threats - ai safety
-- read through sources and record references/citations
-- learn how to insert images and portfolio etc.
+- learn how to insert images and portfolio etc. and insert V&R maps made
