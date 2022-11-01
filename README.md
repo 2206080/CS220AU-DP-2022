@@ -1,26 +1,8 @@
-# CS220AU Digital Portfolio Template (2022)
-## Overview
-This GitHub repository is the template for the [CS220AU](https://github.com/2206080/CS220AU-DP-2022) assignment in 2022. It demonstrates minimalistic ideas for 
-
-- project management
-- web hosting with [GitHub Pages](https://pages.github.com) 
-- web-design with [Markdown language](https://guides.github.com/features/mastering-markdown/) and
-- evaluation with the `assessment.md` and the `dp-checklist.md` files. 
-
-The URL of the website can be found in the sidebar, under 'About'. The homepage uses the information in the `index.md` file.
-
-<br>
-
-## Portfolio items
-The portfolio you submit needs to contain the following:
-
-1. **website** (80% of your overall mark) exploring the theme given.
-2. **self-and peer-assessment** (10% of your overall mark) using the marking rubric in the `assessment.md` file.
-3. **portfolio overview** (10% of your overall mark) providing a succinct overview of your portfolio, an outline of completed tasks (Log) and tasks to do (TODO) in this `README.md` file.
-
-After you finish these items, complete the `dp-checklist.md` file, download it and submit it on FASER. (Please keep this file in your repository as well after submitting.) In essence, you need to submit only one file on FASER, this `dp-checklist.md`. 
-
-How to use this GitHub repository as a template for your submission, including how to submit your files on FASER is demonstrated in class. If anything is unclear, ask for clarification. 
+# AI as an existential threat and digital identities
+##### Abstract
+##### Introduction:
+This article is critical investigates and engages in an evaluation of a potential existential threat in the form of artifical intelligence (AI), it is the hypothesis that suggests that continued advancements in AI technology can lead to unrecoverable damage or human exitinction, and will link the topic to digital identities, in particular the David Whites' Visitor and Residents model (V&R model) and compare it to the now outdated natives and immigrants model. The reason for the creation of this article is to bring awareness to this topic so that people are more conscious of the risks of AI but also so that people can potentially improve their time management skills.
+This article will critically evaluate the hypothesis suggesting that considerable progress in artifical intelligence (AI) technology will result in either human extinction or severely damage humanity. The article will also cover digital identities and investigate them utilizing David Whites' visitor and residents model whilst comparing it to the original natives versus immigrants notion of the internet.
 
 <br>
 
@@ -32,6 +14,7 @@ How to use this GitHub repository as a template for your submission, including h
 - 2022-10-30 3 V&R maps created for past, present, future
 - 2022-10-30 notes made
 - 2022-10-30 some references and citations made, in pvt. notes
+- 2022-11-01 Deleted original template, some notes written up (Remember to ref later)
 <br>
 
 ## TODO
@@ -39,7 +22,7 @@ How to use this GitHub repository as a template for your submission, including h
 - familiarise self with markdown lang.
 - research question, existential threats - ai safety
 
-**in week 5**
+###in week 5 - 01/11/2022
 - learn how to insert images and portfolio etc. and insert V&R maps made
 - forgot where/how to reference in appropriate style, make sure to ask to resolve on the next day
 - write up some of the notes made in coherent format
