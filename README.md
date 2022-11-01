@@ -38,7 +38,8 @@ How to use this GitHub repository as a template for your submission, including h
 ### in week 3 - 18/30/2022
 - familiarise self with markdown lang.
 - research question, existential threats - ai safety
-in week 5
+
+###in week 5
 - learn how to insert images and portfolio etc. and insert V&R maps made
 - forgot where/how to reference in appropriate style, make sure to ask to resolve on the next day
 - write up some of the notes made in coherent format
