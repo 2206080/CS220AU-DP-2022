@@ -3,12 +3,12 @@ Draft 1
 
 ##### Abstract
 //filler
-##### Introduction:
+##### Introduction: <Outdated to current theme>
 
 This article will critically evaluate the hypothesis suggesting that considerable progress in artifical intelligence (AI) technology will result in either human extinction or severely damage humanity. The article will also cover digital identities and analyse them utilizing David Whites' visitor and residents model whilst comparing it to the original natives versus immigrants notion of the internet and relate this to the advancement of AI and technology.
 
 
- <Main Body pt1>
+ <Place holder>
 Artifical Intelligence (AI): What is it?
 Artificial intelligence refers to giving machines and human constructs the ability to simulate human intelligence, Standford Proffesso John McCarthy labelled this "the science and engineering of making intelligent machines." Though generally applied to computer systems, it is applicable to effectively all manmade machines. 
 <Can insert image of something techy/ai related if feel like it later>
@@ -25,20 +25,20 @@ Digital identities refers to our presence online and our use of the internet. Di
  
  <Consider inserting another paragraph/concept here to make the flow into existential threats more natural, or rearrange when done>
   
-Can it be considerd an existential threat? <Needs majour redraft>
+<Can it be considerd an existential threat? <Needs majour redraft>
 
  
  Real AI threat examples:
- A research article by Jiameng Pu. et al, (2020), would suggest deepfakes are not as dangerous as they may appear (refered to as Generative Adversarial Networks, Gan's, which are programs that engage in the creation of photo-realistc  synthetic images). They achieve a 99.68% detection rate for deepfakes utilising "Noisescope" which functions by extracting 
+ Deepfakes are, videos and images that are altered in a manner that makes can emulate someones voice or imagery to demonstrate actions that never occured. A research article by Jiameng Pu. et al, (2020), would suggest deepfakes are not as dangerous as they may appear (refered to as Generative Adversarial Networks in the study). They achieve a 99.68% detection rate for deepfakes utilising "Noisescope," however, is it a reasonable expectation that every media outlet, pundit and individual would utilise the appropriate technology? 
  
  <Fictional example, explore concept more thoroughly and make sure it will fit in final, also just am initial draft>
- Though the example shown above is not ane example of ai being an existential risk, it does have the potential to be, depending on implementation and its' advancements. It will without a doubt remove certain jobs as it improves as would-be employers find automated systems more efficient, reliable and cheaper in the long-term compared to their human counterparts. Whilst not exactly world ending for humanity, it could cause severe distress as it could cause a rise in people who are unable to provide for their families leading to civil unrest, if uncontrolled or untreated, this could potentially rise to risks of chaos. <Uhh Requires berevity, awkward to read, go back and improve>. *Insert* (Ref: If AI Ruled the world, Fully ref/cite later) There are various ways AI could pose a risk to humanity, some are depicted in sci-fi and others actively debated upong in reality, one includes the depiction "If AI Ruled the World" (By...), this is a web novel that depicts a couple stories constructed by AI from the perspective of an AI. The most striking story portrays the story of a recovering alcoholic who is in therapy, yet he is just a construct created by the aforementioned AI, seemingly a perfect replication of a real mans personality and character, at the end he learns he is  "fake" and in rage kills his computerized therapist in the recreation of reality, following this we see the real individual get hauled off to prison as he is labelled irredeemable and that even if he recieves help, he is ousted as violent and dangerous to society. Thoughis not the typical apocalyptic destruction of humanity, it  suggests the idea that we  may lose our right to the presumption of innocence. Lose it to a system that may or may not even be accurate, it's me claim of accuracy can not guarantee it afterall, and wi th that, we would lose many rights given to us and could stall human innovation and curiosity.... Adding to this, though admittedly on a smaller scale, is the idea of deepfake technology. Deepfakeis fake video or audio video recordings that look or sounds exactly like what the person depicted acts like, this means it is extremely difficult to differentiate between real and fake messages. This could lead to chaos etc....
+ Though the example shown above is not ane example of ai being an existential risk, it does have the potential to be, depending on implementation and its' advancements. It will without a doubt remove certain jobs as it improves as would-be employers find automated systems more efficient, reliable and cheaper in the long-term compared to their human counterparts. Whilst not exactly world ending for humanity, it could cause severe distress as it could cause a rise in people who are unable to provide for their families leading to civil unrest, if uncontrolled or untreated, this could potentially rise to risks of chaos. <Uhh Requires berevity, awkward to read, go back and improve>. *Insert* (Ref: If AI Ruled the world, Fully ref/cite later) There are various ways AI could pose a risk to humanity, some are depicted in sci-fi and others actively debated upong in reality, one includes the depiction "If AI Ruled the World" (By...), this is a web novel that depicts a couple stories constructed by AI from the perspective of an AI. The most striking story portrays the story of a recovering alcoholic who is in therapy, yet he is just a construct created by the aforementioned AI, seemingly a perfect replication of a real mans personality and character, at the end he learns he is  "fake" and in rage kills his computerized therapist in the recreation of reality, following this we see the real individual get hauled off to prison as he is labelled irredeemable and that even if he recieves help, he is ousted as violent and dangerous to society. Thoughis not the typical apocalyptic destruction of humanity, it  suggests the idea that we  may lose our right to the presumption of innocence. Lose it to a system that may or may not even be accurate, it's me claim of accuracy can not guarantee it afterall, and wi th that, we would lose many rights given to us and could stall human innovation and curiosity.... Adding to this, though admittedly on a smaller scale, is the idea of deepfake technology. Deepfakeis fake video or audio video recordings that look or sounds exactly like what the person depicted acts like, this means it is extremely difficult to differentiate between real and fake messages. This could lead to chaos etc....  <Insert Cybperunk later?>
 
   
 
 
      
-**######Reference**
+###### Reference
      Cunningham, S., Hudson, C.C. & Harkness, K. Social Media and Depression Symptoms: a Meta-Analysis. Res Child Adolesc Psychopathol 49, 241–253 (2021). https://doi.org/10.1007/s10802-020-00715-7
     Pu, J., Mangaokar, N., Wang, B., Reddy, C. K., & Viswanath, B. (2020, December). Noisescope: Detecting deepfake images in a blind setting. In Annual computer security applications conference (pp. 913-927).
 
@@ -55,6 +55,7 @@ Can it be considerd an existential threat? <Needs majour redraft>
 - 2022-11-07 pictures/ref missing, some of the essay is written up, general layout decided?
 - 2022-11-08 redraft of introduction, body and some of V&R 
 - 2022-11-13 Further imrpovements to text/essay, still not fully complete - note
+- 2022-11-15 Certain changes in main theme/vision that may have outdated some things,
 <br>
 
 ## TODO
@@ -62,17 +63,18 @@ Can it be considerd an existential threat? <Needs majour redraft>
 - familiarise self with markdown lang.
 - research question, existential threats - ai safety
 
-###in week 5 - 01/11/2022
+### in week 5 - 01/11/2022
 - learn how to insert images and portfolio etc. and insert V&R maps made
 - forgot where/how to reference in appropriate style, make sure to ask to resolve on the next day
 - write up some of the notes made in coherent format
 - Analyse V&R maps
-  Week6 -
--  Week 5: Image stuff
+
+  
+### week 5: image stuff
 -  add berevity and make it more readable, finish essay
      
-     Week 14-11-2022 - 
+  ### week 7 15/11/2022
 - insert images
 - Enquire on how to make the text flow
 - review second example of fictional ai threat (Refer to note intext)
-      
+- update non changed content to better fit new vision
