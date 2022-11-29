@@ -20,20 +20,20 @@ Analysis: My V&R Map demonstrated that in the past I employed the internet for a
  
  
   
-  How do existential threats link to Ai?
+  How do existential threats link to AI?
   
   There was an aforementioned reference to do with the effects that excess use of the internet has on someones mental health, this is often induced by AI to trap users. This demonstrates that currently, AI is blending in with our normal use of the internet, this is somewhat consistent with David Clark that it will become a part of daily life and blend in with reality. 
  
 
  
  Real AI threat examples:
- Deepfakes are, videos and images that are altered in a manner that makes can emulate someones voice or imagery to demonstrate actions that never occured. A research article by Jiameng Pu. et al, (2020), would suggest deepfakes are not as dangerous as they may appear (refered to as Generative Adversarial Networks in the study). They achieve a 99.68% detection rate for deepfakes utilising "Noisescope," however, is it a reasonable expectation that every media outlet, pundit and individual would utilise the appropriate technology. A ficitonal example of AI affecting humanity is found in the theme of Cyberpunk which can be summarised as synthesis of lowlife and hightech, with technological advances such as AI and cybernetics juxtaposed against societal collapse. It is therefore arguable, and I would argue as true, that if with meld AI too deeply with our lives, for example as part of our body, it could cause a severe dystopian future. Afterall, criminals would gain access to abilities that allow them to cause more chaos and in turn military combat
+ Deepfakes are, videos and images that are altered in a manner that makes can emulate someones voice or imagery to demonstrate actions that never occured. A research article by Jiameng Pu. et al, (2020), would suggest deepfakes are not as dangerous as they may appear (refered to as Generative Adversarial Networks in the study). They achieve a 99.68% detection rate for deepfakes utilising "Noisescope," however, is it a reasonable expectation that every media outlet, pundit and individual would utilise the appropriate technology. A ficitonal example of AI affecting humanity is found in the theme of Cyberpunk which can be summarised as synthesis of lowlife and hightech, with technological advances such as AI and cybernetics juxtaposed against societal collapse. It is therefore arguable, and I would argue as true, that if with meld AI too deeply with our lives, for example as part of our body, it could cause a severe dystopian future. Afterall, criminals would gain access to abilities that allow them to cause more chaos and in turn military combat would become even more frightening and dangerous with computerized enhancements and body implants that would cause much more death and havoc due t increased destructiove capacity.
   
 
 
      
 ###### Reference
-     Cunningham, S., Hudson, C.C. & Harkness, K. Social Media and Depression Symptoms: a Meta-Analysis. Res Child Adolesc Psychopathol 49, 241–253 (2021). https://doi.org/10.1007/s10802-020-00715-7
+     Cunningham, S., Hudson, C.C. & Harkness, K. Social Media and Depression Symptoms: a Meta-Analysis. Res Child Adolesc Psychopathol 49, 241–253 (2021). https://doi.org/10.1007/s10802-020-00715-7.
     Pu, J., Mangaokar, N., Wang, B., Reddy, C. K., & Viswanath, B. (2020, December). Noisescope: Detecting deepfake images in a blind setting. In Annual computer security applications conference (pp. 913-927).
  Visitor and Residents Map  David White: Credibility https://www.youtube.com/watch?v=kO569eknM6U&t=506s 
  Visitor and Residents Map David White: Open Practice https://www.youtube.com/watch?v=1X0g2OvSdWc
@@ -52,29 +52,30 @@ Analysis: My V&R Map demonstrated that in the past I employed the internet for a
 - 2022-11-08 redraft of introduction, body and some of V&R 
 - 2022-11-13 Further imrpovements to text/essay, still not fully complete - note
 - 2022-11-15 Certain changes in main theme/vision that may have outdated some things,
+- 2022-11-27 Locating related images that may be of interest in the website
 - 2022-11-28 Complete review of text, majour changes to some portions, added other pieces of text, upon recieving feedback will decide whether to chance or alter, 
 <br>
 
 ## TODO
-### in week 3 - 18/30/2022
+### in week 3 -
 - familiarise self with markdown lang.
 - research question, existential threats - ai safety
 
-### in week 5 - 01/11/2022
-- learn how to insert images and portfolio etc. and insert V&R maps made
+### in week 5 -
 - forgot where/how to reference in appropriate style, make sure to ask to resolve on the next day
 - write up some of the notes made in coherent format
 - Analyse V&R maps
 
   
-### week 5: image stuff
+### week 6:
 -  add berevity and make it more readable, finish essay
      
-  ### week 7 15/11/2022
+  ### week 7 
 - insert images
 - Enquire on how to make the text flow
 - review second example of fictional ai threat (Refer to note intext)
 - update non changed content to better fit new vision
-  
-  Week
-- Images and other
+ 
+### Week 8
+- Primary text and content summarised/ at most minor changes required 
+- Start considering how to upload images
