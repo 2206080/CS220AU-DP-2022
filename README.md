@@ -1,11 +1,9 @@
 # AI as an existential threat and digital identities
-Draft 1
 
-##### Abstract
-//filler
-##### Introduction: <Outdated to current theme>
 
-This article will critically evaluate the hypothesis suggesting that considerable progress in artifical intelligence (AI) technology will result in either human extinction or severely damage humanity. The article will also cover digital identities and analyse them utilizing David Whites' visitor and residents model whilst comparing it to the original natives versus immigrants notion of the internet and relate this to the advancement of AI and technology. Artificial intelligence refers to giving machines and human constructs the ability to simulate human intelligence, Standford Proffesso John McCarthy labelled this "the science and engineering of making intelligent machines." Though generally applied to computer systems, it is applicable to effectively all manmade machines. 
+##### Introduction: 
+
+This article will critically evaluate the hypothesis suggesting that considerable progress in artifical intelligence (AI) technology will result in either human extinction or severely damage humanity or any wider damage to human society that may cause a recession. The article will also cover digital identities and analyse them utilizing David Whites' visitor and residents model whilst comparing it to the original natives versus immigrants notion of the internet and relate this to the advancement of AI and technology. Artificial intelligence refers to giving machines and human constructs the ability to simulate human intelligence, Standford Proffesso John McCarthy labelled this "the science and engineering of making intelligent machines." Though generally applied to computer systems, it is applicable to effectively all manmade machines. 
 
 
  
@@ -24,9 +22,8 @@ Analysis: My V&R Map demonstrated that in the past I employed the internet for a
   
   How do existential threats link to Ai?
   
-  Earlier there was a sideways hint to this, it was to do with the effects that excess use of the internet has on someones mental health, this is often induced by AI (as aforementioned) to trap users. This demonstrates that currently, AI is blending in with our normal use of the internet, this is somewhat consistent with David Clark that it will become a part of daily life and blend in with reality. 
-  
-<Can it be considerd an existential threat? <Needs majour redraft>
+  There was an aforementioned reference to do with the effects that excess use of the internet has on someones mental health, this is often induced by AI to trap users. This demonstrates that currently, AI is blending in with our normal use of the internet, this is somewhat consistent with David Clark that it will become a part of daily life and blend in with reality. 
+ 
 
  
  Real AI threat examples:
