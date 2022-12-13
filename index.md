@@ -1,4 +1,4 @@
-# AI as an existential threat and digital identities
+# The Existential Threat of Artificial Intelligence
 
 
 ##### Introduction: 
@@ -49,6 +49,7 @@ Analysis: My V&R Map demonstrated that in the past I employed the internet for a
 - 2022-11-15 Certain changes in main theme/vision that may have outdated some things,
 - 2022-11-27 Locating related images that may be of interest in the website
 - 2022-11-28 Complete review of text, majour changes to some portions, added other pieces of text, upon recieving feedback will decide whether to chance or alter, 
+- 2022-12-11 Failed attempt to insert image, 
 <br>
 
 ## TODO
