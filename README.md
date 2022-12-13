@@ -8,10 +8,12 @@ This article will critically evaluate the hypothesis suggesting that considerabl
 
  
 What are some current uses of AI?
+
  AI is currently used across an exasperating variety of fields to automate certain processes and decrease cost whilst maintaining cost efficiency, examples of this include automated voice assistants on phone lines and computer systems that manage inventory or stocks. A morally debatable use of artifical intelligence includes advertising algorithims like that of youtube, tiktok or other social media as some research has discovered benefits like improved mood, better mental functioning and increased social support (Ellison et al. 2007, Myhre et al. 2017, Park et al. 2009, Patel et al.2015, Primack and Escobar-Viera 2017 cited from meta-analysis by Cunningham, S., Hudson, C.C. & Harkness). The problem with this kind of AI is that whilst not an overt direct existential threat, the isolation and increase in negative emotions can have an impact on people and long term lead compound with other issues cause a threat. More overt immorailty in AI usuage can be related to systems with more nefarious purposes may include malware that tracks your files or displays some threatening message, even worse would be automated targetting systems and the like for military weaponry, which whilst arguably necessary, will result in the lack of life.
 
  
 Digital Identites:
+
 Digital identities refers to our presence online and our use of the internet. Digital identities were initially seen as static, this was referred to as the natives and residents model (Mark Prensky, 2001). The general idea is that people from past generations would be immigrants to the internet, so they were believed to never be able to use it effectively, whilst the younger generations were viewed as natives that could quickly and efficiently traverse the internet. Soon it became apparent that this model is flawed as people were ineffective and utilising the internet for education in a productive manner. On the other hand, David White's Visitor and Residents model (V&R) is a fluid model utilizing a mapping process to allow individuals to map out their online activity that they can then analyse. It consists of a verticle and horizontal line. On the verticle line, on opposite ends, fit personal and institutional. Personal refers to uses of the internet where the aim is some sort of personal gain, be it a piece of information for your own knowledge, or communicating with friends. Contrastingly, institional uses of the internet refer to any use where the goal is achieving something for work or school. On the horizontal line visitors and residents is placed. The visitor end refers to employing the internet as a tool and using it to access or gain information without leaving a social trace, oon the other hand the residents end refers to  anything that can involve leaving a social trace for example sending emails, or interacting with posts or people on social media. An essay by Curiositry, introduces the idea that attention is the currency of the internet and portrays this as a system where people are farmed for their attention like animals, this supports the V&R model as it denotes the inefficient part of someones digital portfolio, specifically the personal resident portion on sites that are used to deliver an addictive dopamine rush which can lead to procrastination and inefficient use of time and the internet as a tool. For example in my portfolio below...
 
 <Insert Image of V&R Map> 
@@ -49,6 +51,7 @@ Analysis: My V&R Map demonstrated that in the past I employed the internet for a
 - 2022-11-15 Certain changes in main theme/vision that may have outdated some things,
 - 2022-11-27 Locating related images that may be of interest in the website
 - 2022-11-28 Complete review of text, majour changes to some portions, added other pieces of text, upon recieving feedback will decide whether to chance or alter, 
+- 2022-12-11 Attempt to insert image, failed, 
 <br>
 
 ## TODO
@@ -74,3 +77,6 @@ Analysis: My V&R Map demonstrated that in the past I employed the internet for a
 ### Week 8
 - Primary text and content summarised/ at most minor changes required 
 - Start considering how to upload images
+
+### Week 11 
+- Insert image properly
