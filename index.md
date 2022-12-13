@@ -14,7 +14,8 @@ What are some current uses of AI?
 Digital Identites:
 Digital identities refers to our presence online and our use of the internet. Digital identities were initially seen as static, this was referred to as the natives and residents model (Mark Prensky, 2001). The general idea is that people from past generations would be immigrants to the internet, so they were believed to never be able to use it effectively, whilst the younger generations were viewed as natives that could quickly and efficiently traverse the internet. Soon it became apparent that this model is flawed as people were ineffective and utilising the internet for education in a productive manner. On the other hand, David White's Visitor and Residents model (V&R) is a fluid model utilizing a mapping process to allow individuals to map out their online activity that they can then analyse. It consists of a verticle and horizontal line. On the verticle line, on opposite ends, fit personal and institutional. Personal refers to uses of the internet where the aim is some sort of personal gain, be it a piece of information for your own knowledge, or communicating with friends. Contrastingly, institional uses of the internet refer to any use where the goal is achieving something for work or school. On the horizontal line visitors and residents is placed. The visitor end refers to employing the internet as a tool and using it to access or gain information without leaving a social trace, oon the other hand the residents end refers to  anything that can involve leaving a social trace for example sending emails, or interacting with posts or people on social media. An essay by Curiositry, introduces the idea that attention is the currency of the internet and portrays this as a system where people are farmed for their attention like animals, this supports the V&R model as it denotes the inefficient part of someones digital portfolio, specifically the personal resident portion on sites that are used to deliver an addictive dopamine rush which can lead to procrastination and inefficient use of time and the internet as a tool. For example in my portfolio below...
 
-<Insert Image of V&R Map> 
+![V R Map](https://user-images.githubusercontent.com/116067900/207286992-0567f17d-72f2-497f-b73f-4563f8cf27e9.jpg)
+
 
 Analysis:
 
@@ -34,6 +35,7 @@ My V&R Map demonstrated that in the past I employed the internet for a bit of re
     Pu, J., Mangaokar, N., Wang, B., Reddy, C. K., & Viswanath, B. (2020, December). Noisescope: Detecting deepfake images in a blind setting. In Annual computer security applications conference (pp. 913-927).
  Visitor and Residents Map  David White: Credibility https://www.youtube.com/watch?v=kO569eknM6U&t=506s 
  Visitor and Residents Map David White: Open Practice https://www.youtube.com/watch?v=1X0g2OvSdWc
+ Image one: 
 
 ## Log
 
