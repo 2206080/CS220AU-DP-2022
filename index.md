@@ -16,7 +16,9 @@ Digital identities refers to our presence online and our use of the internet. Di
 
 <Insert Image of V&R Map> 
 
-Analysis: My V&R Map demonstrated that in the past I employed the internet for a bit of research for any homework/project I may have due, but it was primarily employed for entertainment and personal reasons. Right now, though having some extra additions like netflix in personal uses, it is more balanced with it's use being on university projects and researcg. In the future I hope to cut out the entertainment parts that are less relevant to me to make room for other things and to keep it primarily on work and institutional factors as social media and the sorts easily spiral out of control fairly quickly.
+Analysis:
+
+My V&R Map demonstrated that in the past I employed the internet for a bit of research for any homework/project I may have due, but it was primarily employed for entertainment and personal reasons. Right now, though having some extra additions like netflix in personal uses, it is more balanced with it's use being on university projects and researcg. In the future I hope to cut out the entertainment parts that are less relevant to me to make room for other things and to keep it primarily on work and institutional factors as social media and the sorts easily spiral out of control fairly quickly.
  
  
   
