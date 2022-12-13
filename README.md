@@ -8,7 +8,7 @@ This article will critically evaluate the hypothesis suggesting that considerabl
 ![edited image 2](https://github.com/2206080/CS220AU-DP-2022/blob/main/assets/Image%20edit%202.png)
  
 What are some current uses of AI?
-AI is currently used across an exasperating variety of fields to automate certain processes and decrease cost while maintaining cost efficiency; examples of this include automated voice assistants on phone lines and computer systems that manage inventory or stocks. A morally debatable use of artificial intelligence includes advertising algorithms like those of YouTube, TikTok, or other social media, as some research has discovered benefits like improved mood, better mental functioning, and increased social support (Ellison et al. 2007, Myhre et al. 2017, Park et al. 2009, Patel et al. 2015, Primack, and Escobar-Viera 2017, cited from a meta-analysis by Cunningham, S., Hudson, C.C., & Harkness) [2]. The issue with this type of AI is that, while it does not pose an overt direct existential threat, the isolation and increase in negative emotions can have an impact on people, and long-term effects, when combined with other issues, can pose a threat.More obvious immorality in AI usage can be linked to systems with more nefarious purposes, such as malware that tracks your files or displays some threatening message; even worse would be automated targeting systems and the like for military weaponry, which, while arguably necessary, will result in the loss of life.
+AI is currently used across an exasperating variety of fields to automate certain processes and decrease cost while maintaining cost efficiency; examples of this include automated voice assistants on phone lines and computer systems that manage inventory or stocks. A morally debatable use of artificial intelligence includes advertising algorithms like those of YouTube, TikTok, or other social media, as some research has discovered benefits like improved mood, better mental functioning, and increased social support (Ellison et al. 2007, Myhre et al. 2017, Park et al. 2009, Patel et al. 2015, Primack, and Escobar-Viera 2017, cited from a meta-analysis by Cunningham, S., Hudson, C.C., & Harkness) [^2]. The issue with this type of AI is that, while it does not pose an overt direct existential threat, the isolation and increase in negative emotions can have an impact on people, and long-term effects, when combined with other issues, can pose a threat.More obvious immorality in AI usage can be linked to systems with more nefarious purposes, such as malware that tracks your files or displays some threatening message; even worse would be automated targeting systems and the like for military weaponry, which, while arguably necessary, will result in the loss of life.
 
  
 Digital Identites:
@@ -19,8 +19,7 @@ Digital identities refer to our presence online and our use of the internet. Dig
 
 Analysis:
 
-My V&R Map demonstrated that in the past I employed the internet for a bit of research for any homework or project I may have due, but it was primarily employed for entertainment and personal reasons. Right now, though it has some extra additions like Netflix for personal use, it is more balanced with its use on university projects and research. In the future, I hope to cut out the entertainment parts that are less relevant to me to make room for other things and to focus primarily on work and institutional factors, as social media and the like easily spiral out of control fairly quickly.
- 
+ In the past my online activities were effectively exclusively personal with a large chunk of that being residential focussed on playing games and socialising with friends and strangers alike, with a frequent use of sites such as youtube to watch videos or listen to music for entertainment.My V&R Map demonstrated that in the past I employed the internet for a bit of research for any homework or project I may have due, but it was primarily employed for entertainment and personal reasons. Right now, it demonstrates the use of a plethora of personal resident activities like social media, but includes a small but wide field of institutional uses like my university email and some research for projects like this one or something related to my other endeavours at university. Both in the past and now my use of the internet has been to a large degree personal, and has also contributed to procrastination, to prevent this I am hoping to shift my digital identity to utilise a lot less residential still maintain some social media, but to limit addictive sites like youtube shorts for example, and youtube in general to prevent being lead astray from my work. This would lead to a more productive use of time and hence it is a challenge.
  
   
 What is the relationship between existential threats and AI?
@@ -32,12 +31,12 @@ There was an aforementioned reference to the effects that excess use of the inte
      
 ## Bibliography
 
-[^1]    Andresen, S. L. (2002). John McCarthy: father of AI. IEEE Intelligent Systems, 17(5), 84–85.
-[2] Cunningham, S., Hudson, C.C., & Harkness, K. Social Media and Depression Symptoms: A Meta-Analysis Child and Adolescent Psychopathology, 49, 241-253 (2021).https://doi.org/10.1007/s10802-020-00715-7.
-[^3]
+[^1]Andresen, S. L. (2002). John McCarthy: father of AI. IEEE Intelligent Systems, 17(5), 84–85.
+[2]Cunningham, S., Hudson, C.C., & Harkness, K. Social Media and Depression Symptoms: A Meta-Analysis Child and Adolescent Psychopathology, 49, 241-253 (2021).https://doi.org/10.1007/s10802-020-00715-7.
+[^3]Prensky, M. (2005). Digital natives, digital immigrants. Gifted, (135), 29-31.
 [4] Pu, J., Mangaokar, N., Wang, B., Reddy, C. K., & Viswanath, B. (2020, December). Noisescope: detecting fake images in a blind setting. Annual computer security applications conference (pp. 913–927)
-[5] Visitor and Resident Map David White: Credibility [YouTube video of David White] (https://www.youtube.com/watch?v=kO569eknM6U&t=506s) 
-[5] Visitor and Resident Map David White: Open Practice [2nd YouTube video of David White] (https://www.youtube.com/watch?v=1X0g2OvSdWc)
+[5]Visitor and Resident Map David White: Credibility [YouTube video of David White] (https://www.youtube.com/watch?v=kO569eknM6U&t=506s) 
+[5]Visitor and Resident Map David White: Open Practice [2nd YouTube video of David White] (https://www.youtube.com/watch?v=1X0g2OvSdWc)
 
 
 ## Log
@@ -57,4 +56,5 @@ There was an aforementioned reference to the effects that excess use of the inte
 - 2022-11-27 Locating related images that may be of interest on the website
 - 2022-11-28 Complete text review, major changes to some sections, and addition of new text; after receiving feedback, I will decide whether to chance or alter.
 - 2022-12-11 failed attempt to insert an image,
+- 2022-12-13 implemented two images, one of vrmap and the other an edited image from website, analysis improved
 <br>
