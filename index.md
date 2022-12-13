@@ -19,8 +19,7 @@ Digital identities refer to our presence online and our use of the internet. Dig
 
 Analysis:
 
-My V&R Map demonstrated that in the past I employed the internet for a bit of research for any homework or project I may have due, but it was primarily employed for entertainment and personal reasons. Right now, though it has some extra additions like Netflix for personal use, it is more balanced with its use on university projects and research. In the future, I hope to cut out the entertainment parts that are less relevant to me to make room for other things and to focus primarily on work and institutional factors, as social media and the like easily spiral out of control fairly quickly.
- 
+ In the past my online activities were effectively exclusively personal with a large chunk of that being residential focussed on playing games and socialising with friends and strangers alike, with a frequent use of sites such as youtube to watch videos or listen to music for entertainment.My V&R Map demonstrated that in the past I employed the internet for a bit of research for any homework or project I may have due, but it was primarily employed for entertainment and personal reasons. Right now, it demonstrates the use of a plethora of personal resident activities like social media, but includes a small but wide field of institutional uses like my university email and some research for projects like this one or something related to my other endeavours at university. Both in the past and now my use of the internet has been to a large degree personal, and has also contributed to procrastination, to prevent this I am hoping to shift my digital identity to utilise a lot less residential still maintain some social media, but to limit addictive sites like youtube shorts for example, and youtube in general to prevent being lead astray from my work. This would lead to a more productive use of time and hence it is a challenge.
  
   
 What is the relationship between existential threats and AI?
@@ -42,20 +41,20 @@ There was an aforementioned reference to the effects that excess use of the inte
 
 ## Log
 
-2022-10-18: github introduction, creation of two repositories, class attendance, basic understanding of github
-2022-10-11: introduction to digital identities in class, visitors, and residents by David White
+-2022-10-18: github introduction, creation of two repositories, class attendance, basic understanding of github
+-2022-10-11: introduction to digital identities in class, visitors, and residents by David White
 - 2022-10-24 Gained some familiarity with the markdown language; selected research question:existential threat, AI,
-2022-10-30: 3 V&R maps created for the past, present, and future
-2022-10-30 Notes made
-- 2022-10-30 Some references and citations are made in the private notes.
-- 2022-11-01 Original template was deleted, and some notes were written down (for future reference).
-2022-11-06: First layout draft; images and references are missing.
-2022-11-07 No pictures or references; some of the essay is written; has the general layout been decided?
-2022-11-08 redraft of the introduction, body, and some of V&R
-- 2022-11-13 Further improvements to the text or essay are still not fully complete.
-- 2022-11-15 Certain changes in the main theme or vision may have outdated some things.
-- 2022-11-27 Locating related images that may be of interest on the website
-- 2022-11-28 Complete text review, major changes to some sections, and addition of new text; after receiving feedback, I will decide whether to chance or alter.
-- 2022-12-11 failed attempt to insert an image,
-- 2022-12-13 implemented two images, one of vrmap and the other an edited image from website
+-2022-10-30: 3 V&R maps created for the past, present, and future
+-2022-10-30 Notes made
+-2022-10-30 Some references and citations are made in the private notes.
+-2022-11-01 Original template was deleted, and some notes were written down (for future reference).
+-2022-11-06 First layout draft; images and references are missing.
+-2022-11-07 No pictures or references; some of the essay is written; has the general layout been decided?
+-2022-11-08 redraft of the introduction, body, and some of V&R
+-2022-11-13 Further improvements to the text or essay are still not fully complete.
+-2022-11-15 Certain changes in the main theme or vision may have outdated some things.
+-2022-11-27 Locating related images that may be of interest on the website
+-2022-11-28 Complete text review, major changes to some sections, and addition of new text; after receiving feedback, I will decide whether to chance or alter.
+-2022-12-11 failed attempt to insert an image,
+-2022-12-13 implemented two images, one of vrmap and the other an edited image from website, analysis improved
 <br>
