@@ -18,5 +18,5 @@ Overview of your DP.
 - 2022-11-28 Complete text review, major changes to some sections, and addition of new text; after receiving feedback, I will decide whether to chance or alter.
 - 2022-12-11 failed attempt to insert an image,
 - 2022-12-13 implemented two images, one of vrmap and the other an edited image from website, analysis improved
-- 2022-12-23 Some ammendments made to text
+- 2022-12-23 text proofread again, mistakes found ammended, slight changes made
 <br>
