@@ -37,5 +37,6 @@ Alternate media like Walle approach a similar theme of a loss of choice, though 
 - Cunningham, S., Hudson, C.C., & Harkness, K. Social Media and Depression Symptoms: A Meta-Analysis Child and Adolescent Psychopathology, 49, 241-253 (2021).https://doi.org/10.1007/s10802-020-00715-7.
 - Prensky, M. (2005). Digital natives, digital immigrants. Gifted, (135), 29-31.
 - Pu, J., Mangaokar, N., Wang, B., Reddy, C. K., & Viswanath, B. (2020, December). Noisescope: detecting fake images in a blind setting. Annual computer security applications conference (pp. 913–927)
-- Visitor and Resident Map David White: Credibility [YouTube video of David White] (https://www.youtube.com/watch?v=kO569eknM6U&t=506s) 
-- Visitor and Resident Map David White: Open Practice [2nd YouTube video of David White] (https://www.youtube.com/watch?v=1X0g2OvSdWc)
+- David White, D. W. [jiscnetskills]. Youtube. Retrieved October 10 2020, from [https://www.youtube.com/watch?v=kO569eknM6U&t=512s]
+- David White, D. W. [jiscnetskills]. Youtube. Retrieved October 10 2020, from [https://www.youtube.com/watch?v=sPOG3iThmRI]
+- David White, D. W. [jiscnetskills]. Youtube. Retrieved October 10 2020, from [https://www.youtube.com/watch?v=1X0g2OvSdWc&t=2s]
