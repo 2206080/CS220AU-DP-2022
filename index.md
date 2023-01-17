@@ -1,11 +1,10 @@
-The Existential Threat of Artificial Intelligence
-
+# The Existential Threat of Artificial Intelligence
 
 ## Introduction 
 
 This article will critically evaluate the hypothesis suggesting that considerable progress in artificial intelligence (AI) technology will result in either human extinction or severely damaging humanity, or any wider damage to human society that may cause a recession. The article will also cover digital identities and analyze them utilizing David White's visitor and resident model [5] while comparing it to the original natives versus immigrants' notion of the internet and relating this to the advancement of AI and technology. Artificial intelligence refers to giving machines and human constructs the ability to simulate human intelligence. Stanford Professor John McCarthy labeled this "the science and engineering of making intelligent machines." [^1] Though generally applied to computer systems, it applies to effectively all man-made machines.
 
-![edited image 2](https://github.com/2206080/CS220AU-DP-2022/blob/main/assets/Image%20edit%202.png)
+![Abstract image of computer chip](assets/img/chip-abstract.jpg)
  
 What are some current uses of AI?
 AI is currently used across an exasperating variety of fields to automate certain processes and decrease cost while maintaining cost efficiency; examples of this include automated voice assistants on phone lines and computer systems that manage inventory or stocks. A morally debatable use of artificial intelligence includes advertising algorithms like those of YouTube, TikTok, or other social media, as some research has discovered benefits like improved mood, better mental functioning, and increased social support (Ellison et al. 2007, Myhre et al. 2017, Park et al. 2009, Patel et al. 2015, Primack, and Escobar-Viera 2017, cited from a meta-analysis by Cunningham, S., Hudson, C.C., & Harkness) [^2]. The issue with this type of AI is that, while it does not pose an overt direct existential threat, the isolation and increase in negative emotions can have an impact on people, and long-term effects, when combined with other issues, can pose a threat. More obvious immorality in AI usage can be linked to systems with more nefarious purposes, such as malware that tracks your files or displays some threatening message; even worse would be automated targeting systems and the like for military weaponry, which, while arguably necessary, will result in the loss of life.
