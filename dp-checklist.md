@@ -28,4 +28,4 @@ In the `assessement.md` file
 
 The student registration number(s) of the student(s) I provided feedback with is: 2200082
 
-* I simply run out of time. 
+* I simply ran out of time. 
