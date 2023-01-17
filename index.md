@@ -6,11 +6,13 @@ This article will critically evaluate the hypothesis suggesting that considerabl
 
 ![Abstract image of computer chip](assets/img/chip-abstract.jpg)
  
-What are some current uses of AI?
+### What are some current uses of AI?
+
 AI is currently used across an exasperating variety of fields to automate certain processes and decrease cost while maintaining cost efficiency; examples of this include automated voice assistants on phone lines and computer systems that manage inventory or stocks. A morally debatable use of artificial intelligence includes advertising algorithms like those of YouTube, TikTok, or other social media, as some research has discovered benefits like improved mood, better mental functioning, and increased social support (Ellison et al. 2007, Myhre et al. 2017, Park et al. 2009, Patel et al. 2015, Primack, and Escobar-Viera 2017, cited from a meta-analysis by Cunningham, S., Hudson, C.C., & Harkness) [^2]. The issue with this type of AI is that, while it does not pose an overt direct existential threat, the isolation and increase in negative emotions can have an impact on people, and long-term effects, when combined with other issues, can pose a threat. More obvious immorality in AI usage can be linked to systems with more nefarious purposes, such as malware that tracks your files or displays some threatening message; even worse would be automated targeting systems and the like for military weaponry, which, while arguably necessary, will result in the loss of life.
 
  
-Digital Identities:
+### Digital Identities
+
 Digital identities refer to our presence online and our use of the internet. Digital identities were initially seen as static; this was referred to as the "natives and residents model" (Mark Prensky, 2001) [3]. The general idea is that people from previous generations would be internet immigrants who would never be able to use it effectively, whereas younger generations were viewed as natives who could navigate the internet quickly and efficiently. It soon became clear that this model was flawed, as people were not effectively using the internet for education. On the other hand, David White's Visitor and Residents Model (V&R) is a fluid model utilizing a mapping process to allow individuals to map out the online activity that they can then analyze. It consists of a vertical and a horizontal line. On the vertical line, on opposite ends, fit personal and institutional. "Personal" refers to uses of the internet where the aim is some sort of personal gain, be it a piece of information for your knowledge or communicating with friends. Contrastingly, institutional uses of the internet refer to any use where the goal is achieving something for work or school. On the horizontal line, visitors and residents are placed. The visitor end refers to employing the internet as a tool and using it to access or gain information without leaving a social trace. On the other hand, the resident end refers to anything that can involve leaving a social trace, for example sending emails or interacting with posts or people on social media. An essay by Curiosity introduces the idea that attention is the currency of the internet and portrays this as a system where people are farmed for their attention like animals. This supports the V&R model as it denotes the inefficient part of someone's digital portfolio, specifically the personal resident portion on sites that are used to deliver an addictive dopamine rush, which can lead to procrastination and inefficient use of time and the internet as a tool. For example, in my portfolio below...
 
 ![My V&R Map](https://github.com/2206080/CS220AU-DP-2022/blob/main/assets/img/vrmap.jpg)
@@ -39,25 +41,3 @@ There was an aforementioned reference to the effects that excessive use of the i
 [5]Visitor and Resident Map David White: Credibility [YouTube video of David White] (https://www.youtube.com/watch?v=kO569eknM6U&t=506s) 
 
 [5]Visitor and Resident Map David White: Open Practice [2nd YouTube video of David White] (https://www.youtube.com/watch?v=1X0g2OvSdWc)
-
-
-## Log
-
--2022-10-18: github introduction, creation of two repositories, class attendance, basic understanding of github
--2022-10-11: introduction to digital identities in class, visitors, and residents by David White
-- 2022-10-24 Gained some familiarity with the markdown language; selected research question:existential threat, AI,
--2022-10-30: 3 V&R maps created for the past, present, and future
--2022-10-30 Notes made
--2022-10-30 Some references and citations are made in the private notes.
--2022-11-01 Original template was deleted, and some notes were written down (for future reference).
--2022-11-06 First layout draft; images and references are missing.
--2022-11-07 No pictures or references; some of the essay is written; has the general layout been decided?
--2022-11-08 redraft of the introduction, body, and some of V&R
--2022-11-13 Further improvements to the text or essay are still not fully complete.
--2022-11-15 Certain changes in the main theme or vision may have outdated some things.
--2022-11-27 Locating related images that may be of interest on the website
--2022-11-28 Complete text review, major changes to some sections, and addition of new text; after receiving feedback, I will decide whether to chance or alter.
--2022-12-11 failed attempt to insert an image,
--2022-12-13 implemented two images, one of vrmap and the other an edited image from website, analysis improved
--2022-01-17 checked spelling punc grammar using free online app - grammarly, and double checked with wordtune 
-<br>
