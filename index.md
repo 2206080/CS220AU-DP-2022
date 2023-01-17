@@ -30,10 +30,15 @@ There was an aforementioned reference to the effects that excessive use of the i
 ## Bibliography
 
 [^1]Andresen, S. L. (2002). John McCarthy: father of AI. IEEE Intelligent Systems, 17(5), 84–85.
+
 [2]Cunningham, S., Hudson, C.C., & Harkness, K. Social Media and Depression Symptoms: A Meta-Analysis Child and Adolescent Psychopathology, 49, 241-253 (2021).https://doi.org/10.1007/s10802-020-00715-7.
+
 [^3]Prensky, M. (2005). Digital natives, digital immigrants. Gifted, (135), 29-31.
+
 [4] Pu, J., Mangaokar, N., Wang, B., Reddy, C. K., & Viswanath, B. (2020, December). Noisescope: detecting fake images in a blind setting. Annual computer security applications conference (pp. 913–927)
+
 [5]Visitor and Resident Map David White: Credibility [YouTube video of David White] (https://www.youtube.com/watch?v=kO569eknM6U&t=506s) 
+
 [5]Visitor and Resident Map David White: Open Practice [2nd YouTube video of David White] (https://www.youtube.com/watch?v=1X0g2OvSdWc)
 
 
