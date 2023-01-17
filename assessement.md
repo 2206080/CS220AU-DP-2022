@@ -27,12 +27,12 @@ The general marking criteria can be found in the asset folder of the module's [r
 |1.2 *Practical* <br><br> Level of logic (intelligence) and aesthetics (imagination) applied to producing content for the website in a way that communicates the content meaningfully (e.g. with effective use of layout, style, language and figures – all aiding a clear narrative).|         |              |                                                                                                                        |   |   |
 |      |         |              |                                                                                                                        |   |   |
 |2. EFFORT 10%|         |              |                                                                                                                        |   |   |
-|2.1 *Progress* <br><br> Level of time management demonstrated (e.g. by regular log and TODO list entries linked to deadlines).|         |           x   |                                                                                                                        |   |   |
+|2.1 *Progress* <br><br> Level of time management demonstrated (e.g. by regular log and TODO list entries linked to deadlines).|         |              |                                                                                                                        |   |   |
 |      |         |              |                                                                                                                        |   |   |
 |2.2 *Participation* <br><br> Level of engagement with peers (e.g. by seeking and providing constructive comments on others' work).|         |              |                                                                                                                        |   |   |
-|      |         |          x    |                                                                                                                        |   |   |
 |      |         |              |                                                                                                                        |   |   |
-|3. OVERALL 10% |         |              |                                                                                                             x           |   |   |
+|      |         |              |                                                                                                                        |   |   |
+|3. OVERALL 10% |         |              |                                                                                                                        |   |   |
 |3.1 The submission's overall level of clarity. |         |              |                                                                                                                        |   |   |
 
 
@@ -44,12 +44,12 @@ To measure my own progress, I filled in the table below using the above marking 
 
 |   | 40- | 40+ | 50+ | 60+ | 70+ | 
 |---|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1.1 |     |     |  o  |     |     |
+| 1.1 |     |     |    |     | o    |
 | 1.2 |     |     |     |  o  |     |
 | 1.3 |     |  o  |     |     |     |
-| 2.1 |     |     |  o  |     |     |
+| 2.1 |     |     |    |   o  |     |
 | 2.2 |     |     |     |  o  |     |
-| 3.1 |     |  o  |     |     |     |
+| 3.1 |     |    |     |   o  |     |
 | 3.2 |     |     |  o  |     |     |
 | 4.1 |     |     |     |  o  |     |
 
